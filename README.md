@@ -1,12 +1,12 @@
-# Counter-Strike: Global Offensive Config von Glaimbar
+## Counter-Strike: Global Offensive config by [Glaimbar](http://steamcommunity.com/id/Glaimbar)
 
-Die Config von CS:GO ist unter `<Steam Installdir>\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` zu finden.
+You can find your CS:GO config here: `<Steam Installdir>\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
-* Step1:  Tasten Bindings aus der alten Config in die neue einfügen
-* Step2:  Namen in der Config ändern
-* Step3:  Buyscript zusammenstellen und in die Config einfügen oder per `exec "buyscript.cfg"` laden
-* Step4:  Config __schreibgeschützt__ einstellen (wichtig!)
+## Setup
 
-HF&GL beim zocken!
+* Step 1:  Copy your old key bindings to the new config
+* Step 2:  Change your name
+* Step 3:  Change buyscript or leave it as it is.
+* Step 4:  Make your config read-only
 
-MfG Glaimbar
+HF & GL
